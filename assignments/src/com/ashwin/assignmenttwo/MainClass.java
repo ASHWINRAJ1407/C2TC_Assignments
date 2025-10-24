@@ -1,4 +1,4 @@
-package com.ashwin.assignment2;
+package com.ashwin.assignmenttwo;
 
 /**
  * Main class to demonstrate Student and Commission classes.
